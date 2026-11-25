@@ -1,0 +1,10 @@
+public/
+resources/
+.hugo_build.lock
+.DS_Store
+tags
+node_modules/
+.quartz-cache/
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+
