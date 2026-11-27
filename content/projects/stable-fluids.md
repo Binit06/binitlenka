@@ -1,8 +1,12 @@
 ---
-title: "Stable Fluids"
-description: "From-scratch Python implementation of Jos Stam's landmark SIGGRAPH paper on unconditionally stable fluid simulation."
-date: "2024-11-01"
-tags: ["python", "graphics", "math", "simulation"]
+title: Stable Fluids
+description: From-scratch Python implementation of Jos Stam's landmark SIGGRAPH paper on unconditionally stable fluid simulation.
+date: 2026-09-17
+tags:
+  - python
+  - graphics
+  - math
+  - simulation
 ---
 
 # Stable Fluids: Navier-Stokes Simulation
